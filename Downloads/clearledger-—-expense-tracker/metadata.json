@@ -1,0 +1,6 @@
+{
+  "name": "ClearLedger — Expense Tracker",
+  "description": "Minimalist personal expense tracker, analytics, and monthly budget manager built with HTML5, CSS3, and Vanilla JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
